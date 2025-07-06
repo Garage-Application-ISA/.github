@@ -1,7 +1,7 @@
 # 🛠️ Garage Service Management System
 
-[![Backend CI](https://img.shields.io/github/actions/workflow/status/your-org/garage-backend/ci.yml?label=Backend%20CI)](https://github.com/your-org/garage-backend/actions)
-[![Frontend CI](https://img.shields.io/github/actions/workflow/status/your-org/garage-frontend/deploy.yml?label=Frontend%20CI)](https://github.com/your-org/garage-frontend/actions)
+[![CustomerSide Repo](https://img.shields.io/github/actions/workflow/status/your-org/garage-backend/ci.yml?label=Backend%20CI)](https://github.com/Garage-Application-ISA/Garage-Application-Customer-Side-Implementation.git)
+[![GarageSide Repo](https://img.shields.io/github/actions/workflow/status/your-org/garage-frontend/deploy.yml?label=Frontend%20CI)](https://github.com/Garage-Application-ISA/Intern-Project.git)
 
 ## 🚗 Overview
 
@@ -105,7 +105,7 @@ This used PostgreSQL DB.
 
 Find system docs in the [`/documents`](./../documents) folder:
 
-- [System Architecture](./../diagrams/SystemArchitecture)
+- [System Architecture](./../diagrams/SystemArchitecture.png)
 - [Database Schema](./../diagrams/DatabaseER.jpeg)
 - [API Contracts](./../documents/GarageAppOverview.pdf)
 

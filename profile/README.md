@@ -1,7 +1,10 @@
 # 🛠️ Garage Service Management System
 
+<!-- 
 [![CustomerSide Repo](https://img.shields.io/github/actions/workflow/status/your-org/garage-backend/ci.yml?label=Backend%20CI)](https://github.com/Garage-Application-ISA/Garage-Application-Customer-Side-Implementation.git)
 [![GarageSide Repo](https://img.shields.io/github/actions/workflow/status/your-org/garage-frontend/deploy.yml?label=Frontend%20CI)](https://github.com/Garage-Application-ISA/Intern-Project.git)
+-->
+
 
 ## 🚗 Overview
 

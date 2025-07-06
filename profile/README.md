@@ -40,7 +40,13 @@ Most vehicle service centers rely on manual booking systems and disconnected too
 
 Each service maintains its own PostgreSQL DB and communicates via Kafka and gRPC with protobuf.
 
----
+![System Architecture](./../diagrams/SystemArchitecture.png)
+
+## 🧱 Database Schema
+
+This used PostgreSQL DB.
+
+![Database Schema](./../diagrams/DatabaseER.jpeg)
 
 ## 🖥️ Frontend Design
 
@@ -97,11 +103,11 @@ Each service maintains its own PostgreSQL DB and communicates via Kafka and gRPC
 
 ## 📄 Documents
 
-Find system docs in the [`/documents`](./documents) folder:
+Find system docs in the [`/documents`](./../documents) folder:
 
-- [System Architecture](diagrams/SystemArchitecture)
-- [Database Schema](/diagrams/DatabaseER.jpeg)
-- [API Contracts](./documents/GarageAppOverview.pdf)
+- [System Architecture](./../diagrams/SystemArchitecture)
+- [Database Schema](./../diagrams/DatabaseER.jpeg)
+- [API Contracts](./../documents/GarageAppOverview.pdf)
 
 ---
 

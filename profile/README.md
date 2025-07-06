@@ -99,8 +99,8 @@ Each service maintains its own PostgreSQL DB and communicates via Kafka and gRPC
 
 Find system docs in the [`/documents`](./documents) folder:
 
-- [System Architecture](./diagrams/SystemArchitecture.jpeg)
-- [Database Schema](./documents/DatabaseER.jpeg)
+- [System Architecture](../diagrams/SystemArchitecture.jpeg)
+- [Database Schema](/diagrams/DatabaseER.jpeg)
 - [API Contracts](./documents/GarageAppOverview.pdf)
 
 ---
